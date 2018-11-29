@@ -109,7 +109,7 @@ body {
   }
   .intro .btn {
     padding: 12px 24px;
-    bottom: -97.5%;
+    bottom: -85%;
   }
 }
 
@@ -122,7 +122,7 @@ body {
 
 @media (max-width: 768px) {
   .photo img {
-    width: 98%;
+    width: 77%;
   }
 }
 

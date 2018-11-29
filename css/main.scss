@@ -100,7 +100,7 @@ body {
         }
         .btn {
             padding: 12px 24px;
-            bottom: -97.5%; 
+            bottom: -85%; 
         }
     }
 }
@@ -110,7 +110,7 @@ body {
         position: absolute;
         width: 50%;
         bottom: 0; right: 0;
-        @media (max-width: 768px) { width: 98%; }
+        @media (max-width: 768px) { width: 77%; }
     }
 }
 
